@@ -1,1 +1,1 @@
-У трёх прошивок разные сервисные коды, сделано на случай объединения одинаково прошитых устройств в mesh. Прошивать можно любую
+Three firmwares have different service codes. This is done in case of merging the same firmware devices into a mesh. Any of the firmwares can be flashed.
