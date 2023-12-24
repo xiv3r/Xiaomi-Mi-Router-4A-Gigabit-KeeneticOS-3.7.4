@@ -1,8 +1,8 @@
-# Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4
+# Xiaomi Mi Router 4A Gigabit KeeneticOS v3.7.4
 Install KeeneticOS 3.7.4 Firmware on Xiaomi Router 4A Gigabit Edition
 
 
-- Download the archive with scripts, unpack. There are many files in the folder, we are only interested in !Start.bat
+- [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/zip/refs/heads/main) the archive with scripts, unpack. There are many files in the folder, we are only interested in `!Start.bat`
 
 
 - If Breed is already installed, go to step 4
@@ -11,7 +11,7 @@ Install KeeneticOS 3.7.4 Firmware on Xiaomi Router 4A Gigabit Edition
 
 - Go to Breed at 192.168.1.1. The downloaded archive contains 3 firmware with different service codes, you can flash any one if you do not plan to combine several routers flashed with one dump into a mesh
 
-- Download the firmware according to the instructions from the picture indicated in the archive or under the spoiler below. Attention , someone else’s eeprom with poppies and calibrations is already built into the firmware, you can use it this way, or change the eeprom to yours received in step 2
+- Download the firmware according to the instructions, someone else’s eeprom with poppies and calibrations is already built into the firmware, you can use it this way, or change the eeprom to yours received in step 2
 
 
 
